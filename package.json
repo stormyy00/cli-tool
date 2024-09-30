@@ -1,0 +1,20 @@
+{
+  "name": "create-acm-app",
+  "version": "1.0.1",
+  "bin": "./src/bin/index.js",
+  "description": "",
+  "main": "src/bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^11.1.0",
+    "simple-git": "^3.27.0"
+  }
+}
